@@ -1,5 +1,5 @@
-:: Dx37 | CMD Bypass By Lexxrt
-:: Github: https://github.com/Lexxrt
+:: CMD Bypass By NRFC
+:: Github: github.com/Danny0408
 
 @echo off
 title Dx37
