@@ -1,16 +1,12 @@
 <h2><strong>NRFC's CMD bypass </strong></h2
 
->- *What CMD Should Look Like...*
->
-><img src="1.png">
->
->- *Using Dx37*
->
-><img src="2.png">
->
-><img src="3.png">
+>-this is a simple batch file to bypass cmd
+  when it's blocked on eg: school computers 
 
 - *Disclaimer*
 
-> **This Tool Needs Batch Files To Be Enabled OR ELSE This Won't Work**
-> **This tool is for educational purposes only. I am not responsible for any damage you cause**
+> **This file need batch files to be enabled on the computer 
+     witch is usually active as it's needed for some standard 
+     windows functions **
+> **This tool is scrictly only to be used in a controlled 
+    Environment with permission from the owner **
