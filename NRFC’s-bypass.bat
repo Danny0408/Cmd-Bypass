@@ -1,6 +1,6 @@
 :: CMD Bypass By NRFC
 :: Github: github.com/Danny0408
-color 2
+color 3
 
 @echo off
 
