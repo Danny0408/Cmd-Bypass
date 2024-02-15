@@ -13,3 +13,5 @@
      Environment with permission from the owner **
 
 ![image](https://raw.githubusercontent.com/Danny0408/Cmd-Bypass/main/1.png)
+
+![image](https://github.com/Danny0408/Cmd-Bypass/blob/main/2.png?raw=true)
