@@ -12,4 +12,4 @@
 >    This tool is scrictly only to be used in a controlled 
      Environment with permission from the owner **
 
-!image(
+!image(https://raw.githubusercontent.com/Danny0408/Cmd-Bypass/main/1.png)
