@@ -1,8 +1,7 @@
 <h2><strong>NRFC's CMD bypass </strong></h2
 
 >-this is a simple batch file to bypass cmd
-  when it's blocked on eg: school computers
->-Forked from somebody else
+  when it's blocked on eg: school computers ,Forked from somebody else
 
 
 - *Disclaimer*
